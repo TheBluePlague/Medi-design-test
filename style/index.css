@@ -52,6 +52,7 @@ section {
     color: #FFFFFF;
     margin-left: 200px;
     margin-top: 68px;
+    border-color: transparent;
 }
 .button-home {
     background-color: transparent;
@@ -120,6 +121,7 @@ section {
     font-size: 16px;
     font-weight: bold;
     color: #FFFFFF;
+    border-color: transparent;
 }
 .images {
     top: 200px;
